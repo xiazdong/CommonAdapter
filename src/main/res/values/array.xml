@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="urls">
+        <item>http://i.imgur.com/2JsHM9K.jpg</item>
+        <item>http://i.imgur.com/rO7fEMc.jpg</item>
+        <item>http://i.imgur.com/FO10slC.png</item>
+        <item>http://i.imgur.com/cuBvTri.jpg</item>
+        <item>http://i.imgur.com/M7zUUFr.jpg</item>
+        <item>http://i.imgur.com/ezpIt1m.png</item>
+        <item>http://i.imgur.com/ixrNKbD.jpg</item>
+        <item>http://i.imgur.com/QGuAQeI.jpg</item>
+        <item>http://i.imgur.com/XM7mqb9.jpg</item>
+        <item>http://i.imgur.com/J8D9t3y.jpg</item>
+        <item>http://i.imgur.com/87wWGnS.jpg</item>
+        <item>http://i.imgur.com/2oHngg9.jpg</item>
+        <item>http://i.imgur.com/2JsHM9K.jpg</item>
+        <item>http://i.imgur.com/rO7fEMc.jpg</item>
+        <item>http://i.imgur.com/FO10slC.png</item>
+        <item>http://i.imgur.com/cuBvTri.jpg</item>
+        <item>http://i.imgur.com/M7zUUFr.jpg</item>
+        <item>http://i.imgur.com/ezpIt1m.png</item>
+        <item>http://i.imgur.com/ixrNKbD.jpg</item>
+        <item>http://i.imgur.com/QGuAQeI.jpg</item>
+        <item>http://i.imgur.com/XM7mqb9.jpg</item>
+        <item>http://i.imgur.com/J8D9t3y.jpg</item>
+        <item>http://i.imgur.com/87wWGnS.jpg</item>
+        <item>http://i.imgur.com/2oHngg9.jpg</item>
+    </string-array>
+</resources>
